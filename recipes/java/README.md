@@ -3,7 +3,7 @@ NetBackup API Code Samples for Java
 
 Pre-requisites:
 ------------
-NetBackup 8.1.2 or higher
+NetBackup 8.1.2 or higher  
 maven
 
 Executing command
